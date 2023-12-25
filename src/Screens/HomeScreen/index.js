@@ -6,6 +6,10 @@ const HomeScreen = () => {
         <h1>
             Home Screen
         </h1>
+        <p>
+            Jlsfj kafjl
+            lajdsf l
+        </p>
     </div>
         )
 }
