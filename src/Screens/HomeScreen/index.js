@@ -10,6 +10,9 @@ const HomeScreen = () => {
             Jlsfj kafjl
             lajdsf l
         </p>
+        <p>
+            fasjf akjf lajss l
+        </p>
     </div>
         )
 }
